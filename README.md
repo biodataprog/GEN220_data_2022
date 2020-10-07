@@ -1,2 +1,2 @@
-# GEN220_data
-datasets for GEN220 class
+# GEN220 datasets
+Example datasets for GEN220 class
